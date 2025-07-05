@@ -33,6 +33,7 @@ generate template from the schema.
 
 4. Click Continue in order to let GraphiQL fetch the Schema via the local server. Local server also instantiates GSchema which automatically extracts templates from gqlSchema.
 
+
 5. Use the dropdown menus *Query* and *Mutations* to populate the editor with a specific template.
 
 ![image](https://user-images.githubusercontent.com/1196560/50769657-ecd6e480-1284-11e9-8722-26926dafa92f.png)

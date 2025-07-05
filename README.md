@@ -1,4 +1,6 @@
 
+
+
 # graphqlschema2payload
 This little piece of software helps to recreate GraphQL payloads from a GraphQL Schema. 
 It works by visiting the Schema and resolving all types.

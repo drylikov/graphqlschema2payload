@@ -30,6 +30,7 @@ generate template from the schema.
 3. Add the remote URL and optional Headers (Ie. Authorization Bearer) separated by lines (eg. https://bahnql.herokuapp.com/graphql).
 ![image](https://user-images.githubusercontent.com/1196560/50766648-50a7e000-127a-11e9-859f-d246cda20c16.png)
 
+
 4. Click Continue in order to let GraphiQL fetch the Schema via the local server. Local server also instantiates GSchema which automatically extracts templates from gqlSchema.
 
 5. Use the dropdown menus *Query* and *Mutations* to populate the editor with a specific template.

@@ -6,6 +6,7 @@ This little piece of software helps to recreate GraphQL payloads from a GraphQL 
 It works by visiting the Schema and resolving all types.
 Its main purpose is to create tests that can be used for QA or pentesting.
 
+
 ## Install
 
 ```

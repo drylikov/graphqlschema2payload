@@ -41,6 +41,7 @@ generate template from the schema.
 
 6. Edit the template with the arguments.
 
+
 7. Execute the query and get the response from the remote URL.
 
 ![image](https://user-images.githubusercontent.com/1196560/50769782-6373e200-1285-11e9-8786-f1320a030bdc.png)

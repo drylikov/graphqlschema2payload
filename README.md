@@ -13,6 +13,7 @@ Its main purpose is to create tests that can be used for QA or pentesting.
 npm install 
 ```
 
+
 ## Server Version 
 
 The server version integrates [GraphiQL](https://github.com/graphql/graphiql) interface and populates the editor with an automatically 

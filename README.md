@@ -19,6 +19,7 @@ npm install
 The server version integrates [GraphiQL](https://github.com/graphql/graphiql) interface and populates the editor with an automatically 
 generate template from the schema.
 
+
 1. Launch the server:
 ```npm start```
 

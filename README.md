@@ -26,6 +26,7 @@ generate template from the schema.
 
 2. Visit http://localhost:4000/
 
+
 3. Add the remote URL and optional Headers (Ie. Authorization Bearer) separated by lines (eg. https://bahnql.herokuapp.com/graphql).
 ![image](https://user-images.githubusercontent.com/1196560/50766648-50a7e000-127a-11e9-859f-d246cda20c16.png)
 
